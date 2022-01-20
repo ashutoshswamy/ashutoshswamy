@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/~dummyboy397"><img alt="NPM" title="NPM" src="https://img.shields.io/badge/-Npm Package-yellow?style=for-the-badge&logo=npm&logoColor=white"/></a>
+    <a href="https://www.youtube.com/c/AshusCoding"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.instagram.com/itzashu397/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
