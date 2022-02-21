@@ -1,12 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<p align="center">
-  <a href="https://www.npmjs.com/~dummyboy397"><img alt="NPM" title="NPM" src="https://img.shields.io/badge/NPM Packages-Install-red?style=for-the-badge"/></a>
-  <a href="https://www.youtube.com/c/AshusCoding"><img alt="YouTube" title="YouTube" src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge"/></a>
-  <a href="https://www.instagram.com/itzashu397/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-Follow-bc2a8d?style=for-the-badge"/></a>
-</p>
-
-# Hello World!
+# _Hello World 👋_
 
 I'm Ashutosh and I am Developer
 
@@ -14,7 +6,7 @@ I'm Ashutosh and I am Developer
 - Also owner of Social Guy Bot, Image & Facts Bot, Dr Strange Bot and @dummyboy397/math-rockz NPM package
 - Currently doing only one thing, that is Coding
 
-# My Interests
+# _My Interests 😎_
 
 ![JavaScript][javascript]
 ![Node.js][node]
@@ -24,7 +16,7 @@ I'm Ashutosh and I am Developer
 ![MongoDB][mongodb]
 ![Git][git]
 
-# My Activities
+# _My GitHub Stats 📊_
 
 [![GitHub](https://github-readme-stats.vercel.app/api?username=ItzAshu397&theme=tokyonight)](https://github.com/ItzAshu397)
 
