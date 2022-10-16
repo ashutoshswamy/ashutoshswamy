@@ -4,6 +4,7 @@ I'm Ashutosh and I'm Learning Developer
 
 - Right now creating various Discord Bots and NPM packages
 - YouTube - [Click Here](https://youtube.com/c/AshusCoding)
+- Patreon - [Click Here](https://patreon.com/ashutoshswamy)
 
 # _My Projects 📚_
 
