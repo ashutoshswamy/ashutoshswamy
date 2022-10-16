@@ -12,7 +12,6 @@ I'm Ashutosh and I'm Learning Developer
 - Social Guy Discord Bot - [Click Here](https://top.gg/bot/843876730603307008)
 - Dr Strange Discord Bot - [Click Here](https://top.gg/bot/935229681718952008)
 - All in One Calculator - [Click Here](https://mathrockz.netlify.app)
-- GST Calculator - [Click Here](https://mathrockz-gst.netlify.app)
 - Physics Calculator - [Click Here](https://physicsrockz.netlify.app)
 - and many more projects going on...
 
