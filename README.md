@@ -8,7 +8,7 @@ I'm Ashutosh and I'm Learning Developer
 
 # _My Projects 📚_
 
-- All NPM packges - [Click Here](https://npmjs.com/~dummyboy397)
+- All NPM packges - [Click Here](https://npmjs.com/~dummyboy397) & also [Click Here](https://npmjs.com/~devashu_)
 - Image & Facts Discord Bot - [Click Here](https://top.gg/bot/841586414600585216)
 - Social Guy Discord Bot - [Click Here](https://top.gg/bot/843876730603307008)
 - Dr Strange Discord Bot - [Click Here](https://top.gg/bot/935229681718952008)
