@@ -18,6 +18,6 @@ I'm Ashutosh and I'm Learning Developer
 
 # _My GitHub Stats 📊_
 
-[![GitHub](https://github-readme-stats.vercel.app/api?username=ItzAshu397&theme=tokyonight)](https://github.com/ItzAshu397)
+[![GitHub](https://github-readme-stats.vercel.app/api?username=devashu397&theme=tokyonight)](https://github.com/devashu397)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzAshu397&theme=tokyonight&layout=compact)](https://github.com/ItzAshu397)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devashu397&theme=tokyonight&layout=compact)](https://github.com/devashu397)
