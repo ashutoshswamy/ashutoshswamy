@@ -2,16 +2,14 @@
 
 I'm Ashutosh and I'm Learning Developer
 
-- Right now creating various Discord Bots and NPM packages
+- Right now creating various Discord Bots, NPM packages, Web Pages and APIs
 - YouTube - [Click Here](https://youtube.com/c/AshusCoding)
-- Patreon - [Click Here](https://patreon.com/ashutoshswamy)
 
 # _My Projects 📚_
 
 - All NPM packges - [Click Here](https://npmjs.com/~dummyboy397) & also [Click Here](https://npmjs.com/~devashu_)
-- Image & Facts Discord Bot - [Click Here](https://top.gg/bot/841586414600585216)
-- Social Guy Discord Bot - [Click Here](https://top.gg/bot/843876730603307008)
-- Dr Strange Discord Bot - [Click Here](https://top.gg/bot/935229681718952008)
+- Discord Bots - [Click Here](https://top.gg/user/1148746244592173056)
+- Animal Images API - [Click Here](https://github.com/devashu397/Animal-Images-API)
 - All in One Calculator - [Click Here](https://mathrockz.netlify.app)
 - Physics Calculator - [Click Here](https://physicsrockz.netlify.app)
 - and many more projects going on...
