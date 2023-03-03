@@ -1,6 +1,6 @@
 # _Hello World 👋_
 
-I'm Ashutosh and I'm Learning Developer
+I'm Ashutosh and I'm a Learning Developer
 
 - Right now creating various Discord Bots, NPM packages, Web Pages and APIs
 - YouTube - [Click Here](https://youtube.com/c/AshusCoding)
