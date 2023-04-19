@@ -10,7 +10,7 @@ I'm Ashutosh and I'm a Learning Developer
 - All NPM packges - [Click Here](https://npmjs.com/~devashu_)
 - Discord Bots - [Click Here](https://top.gg/user/1148746244592173056)
 - Animal Images API - [Click Here](https://github.com/iamashuu397/Animal-Images-API)
-- All in One Calculator - [Click Here](https://mathrockz.netlify.app)
+- Maths Calculator - [Click Here](https://mathrockz.netlify.app)
 - Physics Calculator - [Click Here](https://physicsrockz.netlify.app)
 - and many more projects going on...
 
