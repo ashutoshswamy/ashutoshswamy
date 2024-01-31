@@ -3,7 +3,7 @@
 I'm Ashutosh
 
 - Engineering student
-- Right now learning and developing various Discord Bots, NPM packages, Web Pages and APIs
+- Right now learning new technologies and also developing various Discord Bots, NPM packages, Web Pages and APIs
 
 # _My Projects 📚_
 
