@@ -7,7 +7,7 @@ I'm Ashutosh
 
 # _My Projects 📚_
 
-- All NPM packges - [Click Here](https://npmjs.com/ashutoshswamy)
+- NPM packges - [Click Here](https://npmjs.com/ashutoshswamy)
 - Animal Images API - [Click Here](https://github.com/ashutoshswamy397/Animal-Images-API)
 - Maths Calculator - [Click Here](https://mathrockz.netlify.app)
 - Physics Calculator - [Click Here](https://physicsrockz.netlify.app)
