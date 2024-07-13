@@ -8,7 +8,7 @@ I'm Ashutosh
 # _My Projects 📚_
 
 - Discord Bots - [Click Here](https://top.gg/user/1148746244592173056)
-- Maths Calculator - [Click Here](https://mathrockz.netlify.app)
+- NPM Packages - [Click Here](https://www.npmjs.com/~ashutoshswamy)
 - Physics Calculator - [Click Here](https://physicsrockz.netlify.app)
 - and many more projects going on...
 
