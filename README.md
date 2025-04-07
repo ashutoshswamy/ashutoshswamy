@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Science Projects, Web Applications and Basic Node.js Applications<br>🤝 I’m looking for help on topics related to Aritifical Intelligence and Machine Learning<br>🌱 I’m currently learning how to use AI effectively<br>🏢 Trying to build my own startup
+🔭 I’m currently working on AI related Web Applications and Data Science Projects<br>🤝 I’m looking for help on topics related to Aritifical Intelligence and Machine Learning<br>🌱 I’m currently learning how to use AI effectively<br>🏢 Trying to build my own startup
 
 
 ## 🌐 Socials:
