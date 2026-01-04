@@ -1,6 +1,30 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>- Full-stack web applications<br>- ESP32 & IoT projects<br>- AI/ML-powered tools and dashboards<br><br>👯 I’m looking to collaborate on:<br>- Open-source projects<br>- AI/ML, Web Dev, and IoT ideas<br>- Hackathons & innovative startups<br><br>🤝 I’m looking for help with:<br>- Scaling full-stack applications<br>- Advanced AI/ML implementations<br>- Cloud deployments & DevOps<br><br>🌱 I’m currently learning:<br>- Advanced Machine Learning & Deep Learning<br>- System Design<br>- Cloud & Backend Optimization<br><br>💬 Ask me about:<br>- JavaScript, Node.js, React<br>- ESP32, MQTT, IoT<br>- AI/ML projects & APIs<br>- Building real-world products
+## 💫 About Me
 
+🔭 **Currently Working On**
+- Full-stack web applications  
+- ESP32 & IoT-based projects  
+- AI/ML-powered tools and analytical dashboards  
+
+👯 **Open to Collaborate On**
+- Open-source projects  
+- AI/ML, Web Development, and IoT ideas  
+- Hackathons & innovative startup concepts  
+
+🤝 **Looking for Help With**
+- Scaling full-stack applications  
+- Advanced AI/ML implementations  
+- Cloud deployments & DevOps practices  
+
+🌱 **Currently Learning**
+- Advanced Machine Learning & Deep Learning  
+- System Design principles  
+- Cloud architecture & backend optimization  
+
+💬 **Ask Me About**
+- JavaScript, Node.js, React  
+- ESP32, MQTT, and IoT systems  
+- AI/ML projects & APIs  
+- Building real-world, production-ready products  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codeitoffcial3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutoshswamy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ashutoshswamy_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codeitofficial3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashutoshswamy397@gmail.com) 
