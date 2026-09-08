@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Scalable full-stack web applications, AI agent systems, and custom automation bots<br>👯 I’m looking to collaborate on: Open-source developer projects and moden AI systems and automations<br>🤝 I’m looking for help with: Understanding AI & ML more deeply<br>🌱 I’m currently learning: Advanced AI systems, automation and IoT based applications<br><br>💬 Ask me about: Full-stack, AI systems and building Discord bots
+🔭 I’m currently working on: Scalable full-stack web applications, AI agent systems, and custom automation bots<br>👯 I’m looking to collaborate on: Open-source developer projects and moden AI systems and automations<br>🤝 I’m looking for help with: Understanding AI & ML more deeply<br>🌱 I’m currently learning: Advanced AI systems, automation and IoT based applications<br>💬 Ask me about: Full-stack, AI systems and building Discord bots
 
 
 ## 🌐 Socials:
@@ -19,6 +19,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ashutoshswamy&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=ashutoshswamy&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
